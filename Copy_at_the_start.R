@@ -30,6 +30,3 @@ image(x, y, nM, col = hcl.colors(50, "Inferno"),
       main = "Mandelbrot", useRaster = TRUE)
 image(x, y, nJ, col = hcl.colors(50, "Inferno"),
       main = paste("Julia, c =", k), useRaster = TRUE)
-
-
-1+1
